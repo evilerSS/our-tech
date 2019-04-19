@@ -1,6 +1,8 @@
 ## 💻 计算机基础
 
-* [经典学习资料！大佬们都说很经典！](articles/study-resource.md) 
+- [一些优秀大学的计算机公开课](articles/awesome-courses.md)
+- [计算机专业一站式学习](https://www.geeksforgeeks.org/)
+- [经典学习资料！大佬们都说很经典！](articles/study-resource.md) 
 
 ## 🐔 技术资料
 
@@ -13,8 +15,8 @@
 
 ## 🔅 操作系统
 
-- [虚拟内存](articles/virtual-memory.md)
 - [操作系统开发工具 Docker 镜像](articles/osdev-tools.md)
+- [Linux在线阅读源码工具](https://www.tamacom.com/tour/kernel/linux/)
 
 ## 🌈 图形学
 
@@ -23,6 +25,7 @@
 ## 🚑 网络安全
 
 - [XSS 跨站脚本攻击探讨总结](articles/XSS-Explain-1.md)
+- [Msf知识杂烩&一次安全狗下的提权](articles/Pentest_With_Msf.md)
 
 ## 🎮 游戏
 
@@ -32,6 +35,11 @@
 
 - [谷歌跨平台开发框架 Flutter](articles/hello-flutter.md)
 - [Vue 源码解读项目](https://github.com/HcySunYang/vue-design)
+- [前端面试之道](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+
+## 🔧 嵌入式
+
+- [x86 汇编速查手册](http://ref.x86asm.net/index.html)
 
 ## 🎆 后端
 
@@ -57,8 +65,12 @@
 
 - [持续集成服务——Travis CI：自动化测试和部署你的项目](articles/travis-ci.md)
 
+## 📈 数学
+
+
 ## 🔨 工具
 
 - [版本控制工具——Git 使用教程](articles/git-guide.md)
 - [阿里巴巴飞冰——快速构建WEB页面](articles/ice.md)
 - [1800小时 WEB 全栈训练营——快速入门精通 WEB 全栈](articles/freecodecamp.md)
+
